@@ -3,12 +3,12 @@
         "id": "01",
         "blog_title": "How to use the click lens in an effective way",
         "feature_img": "https://i.ibb.co/nn98STd/blog-1-feature-image.png",
-        "blog_short-desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
-        "blog_full-desc": {
-            "para-01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
-            "para-03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
+        "blog_short_desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
+        "blog_full_desc": {
+            "para_01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
+            "para_03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
         },
         "author": "Tanvir Alam",
         "blog_category": "Article",
@@ -18,12 +18,12 @@
         "id": "02",
         "blog_title": "How to use the click lens in an effective way",
         "feature_img": "https://i.ibb.co/ByMQkJg/blog-2-feature-image.png",
-        "blog_short-desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
-        "blog_full-desc": {
-            "para-01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
-            "para-03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
+        "blog_short_desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
+        "blog_full_desc": {
+            "para_01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
+            "para_03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
         },
         "author": "Tanvir Alam",
         "blog_category": "Article",
@@ -33,12 +33,12 @@
         "id": "03",
         "blog_title": "How to use the click lens in an effective way",
         "feature_img": "https://i.ibb.co/XWZd3VP/blog-3-feature-image.png",
-        "blog_short-desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
-        "blog_full-desc": {
-            "para-01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
-            "para-03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
+        "blog_short_desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
+        "blog_full_desc": {
+            "para_01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
+            "para_03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
         },
         "author": "Tanvir Alam",
         "blog_category": "Article",
@@ -48,12 +48,12 @@
         "id": "04",
         "blog_title": "How to use the click lens in an effective way",
         "feature_img": "https://i.ibb.co/QmyTXPL/blog-4-feature-image.png",
-        "blog_short-desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
+        "blog_short_desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
         "blog_full-desc": {
-            "para-01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
-            "para-03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
+            "para_01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
+            "para_03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
         },
         "blog-img": "https://i.ibb.co/Dkf1j1S/blog-1-1.png",
         "author": "Tanvir Alam",
@@ -64,12 +64,12 @@
         "id": "05",
         "blog_title": "How to use the click lens in an effective way",
         "feature_img": "https://i.ibb.co/g4NKg84/blog-5-feature-image.png",
-        "blog_short-desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
-        "blog_full-desc": {
-            "para-01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
-            "para-03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
+        "blog_short_desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
+        "blog_full_desc": {
+            "para_01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
+            "para_03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
         },
         "author": "Tanvir Alam",
         "blog_category": "Article",
@@ -79,12 +79,12 @@
         "id": "06",
         "blog_title": "How to use the click lens in an effective way",
         "feature_img": "https://i.ibb.co/ByMQkJg/blog-2-feature-image.png",
-        "blog_short-desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
-        "blog_full-desc": {
-            "para-01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
-            "para-03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
-            "para-04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
+        "blog_short_desc": "Lens, which bills itself as 'the Kubernetes IDE,' is a useful, attractive, open source user interface (UI).",
+        "blog_full_desc": {
+            "para_01": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_02": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac.",
+            "para_03": "Sed nisi, lorem sagittis tortor. Morbi iaculis nisi, turpis a pellentesque commodo turpis. Accumsan sit proin sit viverra viverra at in ullamcorper. Senectus aliquam pellentesque ornare egestas. Ultrices in id magna a at turpis. Risus, diam scelerisque sit vulputate pulvinar et.",
+            "para_04": "Sem nunc nulla sem netus pharetra nulla etiam. Vitae quis velit convallis vulputate. Ac mauris, lectus at sit. Erat dignissim pharetra euismod rutrum. Feugiat ullamcorper auctor dolor enim, leo. Vel ac viverra et curabitur ac."
         },
         "author": "Tanvir Alam",
         "blog_category": "Article",

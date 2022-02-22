@@ -3,7 +3,7 @@
         "id": "01",
         "portfolio_title": "Woocommerce website",
         "portfolio_feature_img": "https://i.ibb.co/vPRMTdH/portfolio-1.png",
-        "portfolio_category": "Website",
+        "portfolio_category": "Images",
         "published_date": "May 02, 2020",
         "role": {
             "01": "UX Researcher",
@@ -17,7 +17,7 @@
         "id": "02",
         "portfolio_title": "Food Website",
         "portfolio_feature_img": "https://i.ibb.co/RzRvNgr/portfolio-2.png",
-        "portfolio_category": "Website",
+        "portfolio_category": "Images",
         "published_date": "May 02, 2020",
         "role": {
             "01": "UX Researcher",
@@ -31,7 +31,7 @@
         "id": "03",
         "portfolio_title": "NFTs",
         "portfolio_feature_img": "https://i.ibb.co/QpDd9y1/portfolio-3.png",
-        "portfolio_category": "Website",
+        "portfolio_category": "Web Design",
         "published_date": "May 02, 2020",
         "role": {
             "01": "UX Researcher",
@@ -45,7 +45,7 @@
         "id": "04",
         "portfolio_title": "Ecommarce",
         "portfolio_feature_img": "https://i.ibb.co/CPnF9kj/portfolio-4.png",
-        "portfolio_category": "Website",
+        "portfolio_category": "Web Design",
         "published_date": "May 02, 2020",
         "role": {
             "01": "UX Researcher",
@@ -59,7 +59,7 @@
         "id": "05",
         "portfolio_title": "Modern web design",
         "portfolio_feature_img": "https://i.ibb.co/YZCdX4Z/portfolio-5.png",
-        "portfolio_category": "Website",
+        "portfolio_category": "Mobile App",
         "published_date": "May 02, 2020",
         "role": {
             "01": "UX Researcher",
@@ -73,7 +73,91 @@
         "id": "06",
         "portfolio_title": "Woocommerce website",
         "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
-        "portfolio_category": "Website",
+        "portfolio_category": "Potrait",
+        "published_date": "May 02, 2020",
+        "role": {
+            "01": "UX Researcher",
+            "02": "UX Designer"
+        },
+        "client_name": "Amily Watson",
+        "project_start_date": "June 24, 2020",
+        "porject_end_date": "July 21, 2022"
+    },
+    {
+        "id": "07",
+        "portfolio_title": "Woocommerce website",
+        "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
+        "portfolio_category": "Web Design",
+        "published_date": "May 02, 2020",
+        "role": {
+            "01": "UX Researcher",
+            "02": "UX Designer"
+        },
+        "client_name": "Amily Watson",
+        "project_start_date": "June 24, 2020",
+        "porject_end_date": "July 21, 2022"
+    },
+    {
+        "id": "08",
+        "portfolio_title": "Woocommerce website",
+        "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
+        "portfolio_category": "Mobile App",
+        "published_date": "May 02, 2020",
+        "role": {
+            "01": "UX Researcher",
+            "02": "UX Designer"
+        },
+        "client_name": "Amily Watson",
+        "project_start_date": "June 24, 2020",
+        "porject_end_date": "July 21, 2022"
+    },
+    {
+        "id": "09",
+        "portfolio_title": "Woocommerce website",
+        "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
+        "portfolio_category": "Web Design",
+        "published_date": "May 02, 2020",
+        "role": {
+            "01": "UX Researcher",
+            "02": "UX Designer"
+        },
+        "client_name": "Amily Watson",
+        "project_start_date": "June 24, 2020",
+        "porject_end_date": "July 21, 2022"
+    },
+    {
+        "id": "10",
+        "portfolio_title": "Woocommerce website",
+        "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
+        "portfolio_category": "Potrait",
+        "published_date": "May 02, 2020",
+        "role": {
+            "01": "UX Researcher",
+            "02": "UX Designer"
+        },
+        "client_name": "Amily Watson",
+        "project_start_date": "June 24, 2020",
+        "porject_end_date": "July 21, 2022"
+    },
+    {
+        "id": "11",
+        "portfolio_title": "Woocommerce website",
+        "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
+        "portfolio_category": "Web Design",
+        "published_date": "May 02, 2020",
+        "role": {
+            "01": "UX Researcher",
+            "02": "UX Designer"
+        },
+        "client_name": "Amily Watson",
+        "project_start_date": "June 24, 2020",
+        "porject_end_date": "July 21, 2022"
+    },
+    {
+        "id": "12",
+        "portfolio_title": "Woocommerce website",
+        "portfolio_feature_img": "https://i.ibb.co/9GqjjGw/portfolio-6.png",
+        "portfolio_category": "Images",
         "published_date": "May 02, 2020",
         "role": {
             "01": "UX Researcher",
